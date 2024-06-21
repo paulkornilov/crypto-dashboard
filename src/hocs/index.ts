@@ -1,0 +1,2 @@
+export { LazyComponentLoader } from './LazyComponentLoader';
+
